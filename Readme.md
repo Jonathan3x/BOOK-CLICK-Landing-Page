@@ -1,4 +1,4 @@
-# Book-Click Landing Page.
+# BOOK-CLICK Landing Page.
 
 Este es un proyecto en el cual cree mi primera landing page de una librería ficticia, utilice `flexbox`, `media queries` para crear un diseño que funciona bien en pantallas móviles y de escritorio, así como una ventana de `alert` con un mensaje gracias a`Javascript`.
 
